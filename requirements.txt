@@ -1,0 +1,4 @@
+fastrand==1.2.4
+pandas==1.1.0
+psutil==5.7.2
+tqdm==4.48.2
